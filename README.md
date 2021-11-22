@@ -1,4 +1,4 @@
-# Robot-Avoiding-Obstacles
+# Robot Avoiding Obstacles
 
 ## Prompt
 You will write a program governing robot behavior so that it avoids obstacles. Since one obstacle might be boring, you will also make the robot do something novel when it has been repetitive and dance every so often because life is too short not to.
